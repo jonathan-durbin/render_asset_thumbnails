@@ -8,7 +8,7 @@ bl_info = {
     "name": "Render asset thumbnail",
     "author": "GruntWorks",
     "blender": (4, 4, 0),
-    "version": (0, 2, 1),
+    "version": (0, 3, 0),
     "location": "ASSETS",
     "description": "Renders selected asset thumbnails from the Asset Browser to folders based on the current collection name.",
     "category": "User Interface",
